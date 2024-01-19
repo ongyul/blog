@@ -2,7 +2,7 @@
 title: Pastry jelly cookie sugar donut orange
 date: 2021-12-18
 images:
-- https://cdn.jsdelivr.net/gh/ongyul/blog/blob/main/assets/123.png?raw=true
+- https://cdn.jsdelivr.net/gh/ongyul/blog/assets/123.png?raw=true
 description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.assdfsdaf
 ---
 
