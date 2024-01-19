@@ -1,5 +1,5 @@
 baseURL = "https://ongyul.github.io/"
-languageCode = "en-us"
+languageCode = "ko-KR"
 title = "Personal Digital Garden123123"
 theme = "digitalgarden"
 
@@ -34,6 +34,10 @@ googleAnalytics = "UA-PROPERTY_ID"
 [[menu.main]]
   name = 'Articles'
   url = '/articles'
+  weight = 3
+[[menu.main]]
+  name = 'Articles2'
+  url = '/articles2'
   weight = 3
 [[menu.main]]
   name = 'Portfolio'
