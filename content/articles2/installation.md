@@ -23,6 +23,8 @@ git clone https://github.com/apvarun/digital-garden-hugo-theme.git themes/digita
 
 #### Setup
 
+ㄴㅇㄹㅎㄴㅇㄹㅎㅇㄴㅎㄹ
+
 1. Copy `package.json`, `package-lock.json` and `tailwind.config.js` files from the theme/digitalgarden folder to the root folder of your the website
 2. Run `npm install` to install required packages for theme
 3. Run `npm i -g postcss-cli` to use PostCSS with Hugo build
